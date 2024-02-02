@@ -24,7 +24,7 @@ social:
 - {icon: 'facebook',   link: 'https://www.facebook.com/Kathy.Yu.Lin'}
 - {icon: 'instagram', link: 'https://www.instagram.com/kbeyer2020'}
 - {icon: 'github',    link: 'https://github.com/kathybeyer'}
-- {icon: 'linkedin',  link: 'linkedin.com/in/kathylin2'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/kathylin2/'}
 - {icon: 'envelope',  link: 'mailto:mailto:kathy.beyer.photographer@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
