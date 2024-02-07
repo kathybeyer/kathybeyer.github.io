@@ -31,6 +31,10 @@
     {% seo %}
   </head>
   <body>
+      background-image: url('{{ site.baseurl }}/assets/img/background.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover;
     <div class="site-container">
       {% include header.html %}
       {{ content }}
