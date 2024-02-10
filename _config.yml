@@ -10,5 +10,4 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "Kathy Beyer Photography"
 description: "Powered by Jekyll and GitHub Pages"
 author:      "Kathy Beyer"
-hello bg
 background-image: url('{{ site. baseurl }}/assets/img/background.jpg')
