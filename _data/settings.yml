@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Journeys', url: ''}
-- {name: 'Services',     url: 'blog'}
+- {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
