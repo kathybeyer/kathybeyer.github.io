@@ -2,8 +2,8 @@
 # General Site Settings
 
 menu:
-- {name: 'Journey', url: ''}
-- {name: 'Blog',     url: 'blog'}
+- {name: 'Journeys', url: ''}
+- {name: 'Services',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
