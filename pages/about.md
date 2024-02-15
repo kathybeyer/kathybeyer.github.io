@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-<h1>About Me</h1>
+<h1><b>About Me</b></h1>
 
 I was born and grew up in Xiamen, a beautiful port city in Southeast China's Fujian Province.
 
