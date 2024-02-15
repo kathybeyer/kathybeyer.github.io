@@ -4,6 +4,7 @@
 menu:
 - {name: 'Journeys', url: ''}
 - {name: 'Blog',     url: 'blog'}
+- {name: 'Poems',     url: 'poem'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
