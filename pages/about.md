@@ -6,6 +6,8 @@ permalink: /about
 
 <h1><b>About Me</b></h1>
 
+![IMG_8829](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/5f387e58-6234-439d-b99f-984ac2c4d27c)
+
 I was born and grew up in Xiamen, a beautiful port city in Southeast China's Fujian Province.
 
 I first learned photography from my Mom's Uncle, Ker Lin, a Middle School English teacher from the Philippines. Encouraged by his support and guidance, I knew I had found my passion.
