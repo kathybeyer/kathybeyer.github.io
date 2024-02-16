@@ -10,6 +10,8 @@ title: 'Japan'
 
 ![DSC_0772](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/5a65644f-42a5-4040-b682-d5f8230797cc)
 
+![DSC_0734](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/c41a3e2d-4ccd-473b-b9a4-f83d46851a41)
+
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
