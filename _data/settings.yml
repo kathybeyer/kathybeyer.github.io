@@ -14,8 +14,8 @@ projects:
 - {name: 'Japan',   url: 'proj-1'}
 - {name: 'Greece',   url: 'proj-2'}
 - {name: 'London', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Paris',  url: 'proj-4'}
+- {name: 'Mexico',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
