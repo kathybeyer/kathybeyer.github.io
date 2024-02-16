@@ -6,8 +6,6 @@ title: 'Japan'
 
 ![_MG_1913](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/be0eea94-980d-468b-86b0-806826a84082)
 
-![DSC_1227](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/6c7e886d-7d32-4371-8a51-c1c2e31c4d7b)
-
 ![DSC_0772](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/5a65644f-42a5-4040-b682-d5f8230797cc)
 
 ![DSC_0734](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/c41a3e2d-4ccd-473b-b9a4-f83d46851a41)
