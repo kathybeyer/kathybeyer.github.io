@@ -4,9 +4,9 @@ title: Contact
 permalink: /contact
 ---
 
-<h1><b>Get in Touch</b></h1>
+# Get in Touch
 
-Being a Professional Photographer, I am committed to excellence and deliver excellence!!
+<h2><i>Being a Professional Photographer, I am committed to excellence and deliver excellence!!</i></h2>
 
 We provide the following services:
 
