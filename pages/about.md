@@ -14,4 +14,3 @@ After moving to the United States 25 years ago, I put photography aside for a fe
 
 ![xmas01](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/30a7629d-dd51-42a0-8736-9639fa0b1743)
 
-![IMG_20220126_132827_001_1 copy](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/460842d6-a94a-4bfc-94fd-94dc0a9b1998)
