@@ -6,7 +6,7 @@ permalink: /contact
 
 # Get in Touch
 
-<h2><i>Being a Professional Photographer, I am committed to excellence and deliver excellence!!</i></h2>
+### Being a Professional Photographer, I am committed to excellence and deliver excellence!!
 
 We provide the following services:
 
