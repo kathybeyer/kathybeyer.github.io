@@ -14,4 +14,4 @@ We provide the following services:
 - Family/Event Photography
 - Graduation Photography
 
-You may contact me:[through my email](mailto:kathy.beyer.photographer@gmail.com) if you have any questions or would like to set up an appointment for photography services.
+You may contact me: [through my email](mailto:kathy.beyer.photographer@gmail.com) if you have any questions or would like to set up an appointment for photography services.
