@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact
+title: Poetry
+permalink: /poetry
 ---
 
 # Get in Touch
