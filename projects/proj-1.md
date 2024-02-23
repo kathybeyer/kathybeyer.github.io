@@ -11,3 +11,4 @@ title: 'Japan'
 
 ![DSC_0734](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/c41a3e2d-4ccd-473b-b9a4-f83d46851a41)
 
+![DSC_0419-2](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/0af8ae63-de3b-49dd-9a99-287a8a42335b)
