@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poetry!"
+title: "Getting Started"
 ---
 
-My poems will be shown here.
+# My poems will be shown here.
