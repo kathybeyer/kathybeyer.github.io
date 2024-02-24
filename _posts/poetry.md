@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Poetry!"
+title: "Poetry!"
 ---
 
 My poems will be shown here.
