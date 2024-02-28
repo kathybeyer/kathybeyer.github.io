@@ -3,6 +3,4 @@ layout: post
 title: 'Paris'
 ---
 
-In diam odio, facilisis eu elementum in, sodales ut dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean fermentum ante vitae sagittis efficitur. Praesent interdum sagittis porttitor. Duis non hendrerit metus. Nullam bibendum nunc cursus elit cursus ornare. Nulla eget sodales erat. Quisque laoreet nibh eu eleifend vehicula.
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
+![DSC_0273_2](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/3397419e-804c-4e3f-a78d-fb77eea4f720)
