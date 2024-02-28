@@ -3,7 +3,7 @@ layout: post
 title: "Garden Fun"
 ---
 
-## My first garden art
+# My first garden art
 
 On the 8th of May<br>
 I found something in a place<br>
