@@ -3,6 +3,5 @@ layout: post
 title: 'Mexico'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+![IMG_3913](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/9a61dc21-1395-4636-9973-ae67fdc880f9)
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
