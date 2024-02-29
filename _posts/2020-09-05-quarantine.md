@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Covid-19"
+title: "Quarantine"
 ---
 
 ## My poems will be shown here.
