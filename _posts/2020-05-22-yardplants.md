@@ -23,8 +23,11 @@ With two embryonie leaves green like a jade<br>
 
 It looks so promising<br>
 Soon the place should be covered with green<br>
-Oh my, That will be totally amazing<br>
+Oh my, that will be totally amazing<br>
 
 ![IMG_8187 (1)](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/9de5aa98-f512-423a-8f79-4eac11f68cae)
+
+![IMG_9682_1](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/82c8a389-2a3c-4305-8b0d-d1628af188d4)
+
 
 
