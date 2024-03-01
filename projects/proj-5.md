@@ -18,3 +18,5 @@ title: 'Mexico'
 ![DSC_0002_1](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/3eaa2ab8-5cb0-4356-8b38-8c0bd81aac55)
 
 ![DSC_0091 (1)_1](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/17dca412-0a39-4a94-a774-3cefa3df5e48)
+
+![DSC_0566](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/d70ef7d7-859c-412c-9d93-a049d9fc1c78)
