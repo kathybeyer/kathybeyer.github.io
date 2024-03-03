@@ -10,7 +10,8 @@ I am pround it was taken by my lens<br>
 
 ![IMG_5076 (1)](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/b53f085e-39cf-464a-8489-fb55f5be10f6)
 
-### On the other hand, it was great to hear one of my neighbors in NextDoor said that it reminded him of this poem:
+
+#### On the other hand, it was great to hear one of my neighbors in NextDoor said that it reminded him of this poem:
 
 I looked up the word ‘yellow’ the other day.<br> 
 I found so many shades of yellow that they had been distinguished by words like<br> 
