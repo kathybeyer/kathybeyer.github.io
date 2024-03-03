@@ -6,7 +6,7 @@ title: "Daisy in the Rain"
 A yellow gerber Daisy stays in the rain<br>
 The rain makes Daisy shine like a stunning diamond<br>
 It is such a symphony of colors and sounds<br>
-I am pround it was taken by my lens<br>
+I am thriled to look at life through my lens<br>
 
 ![IMG_5076 (1)](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/b53f085e-39cf-464a-8489-fb55f5be10f6)
 
