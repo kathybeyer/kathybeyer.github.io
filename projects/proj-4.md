@@ -13,5 +13,6 @@ title: 'Paris'
 
 ![DSC_0256](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/0a270c8b-24b5-491c-b924-ae82a3529108)
 
+![DSC_0252](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/e18758f8-f0a2-42a0-b0b8-8bcf981943c2)
 
 
