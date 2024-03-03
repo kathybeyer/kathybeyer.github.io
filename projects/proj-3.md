@@ -9,4 +9,6 @@ title: 'London'
 
 ![DSC_0014](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/9550221e-af88-4899-9161-20afec2190be)
 
+![IMG_8392-2](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/53b21b76-a12e-4a34-a512-8d00fc5ce08c)
+
 
