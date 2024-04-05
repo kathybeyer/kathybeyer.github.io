@@ -12,4 +12,6 @@ title: "Memorial Day in China"
 
 ![IMG_5776_2](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/b288c144-3814-4184-a067-f6ffc2f0ea84)
 
+![IMG_5765](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/7c4d4d8f-a6bd-4307-a0f8-7b551b043859)
+
 
