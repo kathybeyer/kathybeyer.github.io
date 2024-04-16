@@ -5,7 +5,7 @@ title: "In memory of Sam"
 
 ​​“When you feel me in your heart, look up and I’ll be right there.”
 
-April 13, 2024 Sam at age 15 was put into sleep 😩
+April 13, 2024 Sam at age 15 was put into sleep 😩. This picture was taken the day before he was gone.
 
 ![IMG_9069](https://github.com/kathybeyer/kathybeyer.github.io/assets/121460653/818b3540-bf12-492a-bdcf-16c675c347bc)
 
