@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Virginia Hislop "
+title: "Virginia Hislop - Stanford University "
 ---
 
 I was so thrilled to be there to capture this moment with my lens yesterday (6/16/2024)!!
