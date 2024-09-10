@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Happy Teacers‘ Day in China"
+title: "Happy Teachers‘ Day in China"
 ---
 
 Sept 10 marks the 40th Teachers' Day in China.
